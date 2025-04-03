@@ -1,3 +1,3 @@
 # qairlane
 
-A new Flutter project.
+Коммерческое ПО, для управления тестированием
